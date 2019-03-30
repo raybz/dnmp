@@ -1,3 +1,8 @@
+0. 命令
+```
+docker-compose run
+```
+
 1. 结构
 ```
 www
