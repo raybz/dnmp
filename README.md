@@ -1,4 +1,5 @@
 1. 结构
+```
 www
 |— docker-compose.yml
 |— html
@@ -12,7 +13,7 @@ www
 |    |— www.conf
 |— mysql
 |— .env
-
+```
 2. .env
 ```
 #!/usr/bin/env bash
